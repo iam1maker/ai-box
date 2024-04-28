@@ -11,7 +11,7 @@ import {
     Video,
     VideoIcon,
 } from "lucide-react";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 
 export default function DashboardPage() {
     const tools = [
